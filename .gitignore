@@ -9,9 +9,6 @@ __pycache__/
 .env/
 .venv/
 
-# Dataset folder 
-data/
-
 # Python package files
 *.egg-info/
 *.dist-info/
