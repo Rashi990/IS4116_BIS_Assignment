@@ -104,8 +104,8 @@ This analysis **demonstrates the power of customer segmentation** in **e-commerc
 
 ## 📂 Repository Contents  
 
-📜 **Jupyter Notebook** – Complete analysis, clustering, visualizations and business insights  
-📊 **Dataset** – Dataset used for analysis process 
+📜 **Jupyter Notebook** – Complete analysis, clustering, visualizations and business insights  <br>
+📊 **Dataset** – Dataset used for analysis process <br>
 📑 **README.md** – This document, providing an overview of the project  
 
 ---
